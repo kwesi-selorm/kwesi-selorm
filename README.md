@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @kwesi-selorm
-- 👀 I’m interested in web and software development
-- 🌱 I’m currently learning about blockchain & web3 while I take bootcamps in full-stack web development and Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in anything to do with building solutions to make life a breeze
+- 🌱 I’m currently building my programming muscle in web development
+- 💞️ I’m looking to collaborate on fun projects
+- 📫 You will almost always find me on Twitter, hit me up @Eljaks
 
 <!---
 kwesi-selorm/kwesi-selorm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
