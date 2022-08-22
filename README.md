@@ -4,4 +4,4 @@ I currently work as a full-stack developer with a goal of specialising in softwa
 
 Languages, tools, and technologies I am proficient in and employ frequently include the following and a few unlisted others:
 
-[![My Skills](https://skillicons.dev/icons?i=typescript,javascript,react,redux,nextjs,html,css,nodejs,express,jest,mongodb,git,github,graphql,apollo,webpack,vscode,&theme=light&perline=15)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=typescript,javascript,py,react,redux,nextjs,html,css,nodejs,fastapi,express,jest,mongodb,git,github,graphql,apollo,webpack,vscode,&theme=light&perline=15)](https://skillicons.dev)
